@@ -1,0 +1,7 @@
+{
+  "name": "@types/react-sample-app",
+  "types": "src/index.d.ts",
+  "private": true,
+  "dependencies": {
+  }
+}
